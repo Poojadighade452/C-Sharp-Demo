@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Lambada": {
+      "commandName": "Project",
+      "commandLineArgs": "m"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
